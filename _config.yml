@@ -1,4 +1,3 @@
-layout_spectrum: 0.24911459418945014
 typography_spectrum: 0.5008942191489041
 color:
   brandStrength: 0.025254009990021586
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#030303'
     - '#6DF5E6'
+layout_spectrum: 0.24911459418945014
 name: Good Healing
+title: Hi
